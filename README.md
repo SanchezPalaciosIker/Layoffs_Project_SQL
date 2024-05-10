@@ -1,3 +1,3 @@
-layoff.csv - Raw layoffs data from worldwide companies
+1. layoff.csv - Raw layoffs data from worldwide companies
 
-Cleaning.sql - SQL script with the procedures for data cleaning
+2. Cleaning.sql - SQL script with the procedures for data cleaning
